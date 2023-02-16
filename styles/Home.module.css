@@ -1,0 +1,13 @@
+.leaderbord__list {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  overflow: hidden;
+}
+.header_image {
+  object-fit: cover;
+}
+.full_width {
+  box-sizing: border-box;
+  position: absolute;
+}

@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap');
+
+html {
+  background: rgb(34, 193, 195);
+  background: linear-gradient(
+    59deg,
+    rgba(34, 193, 195, 1) 0%,
+    rgba(253, 187, 45, 1) 100%
+  );
+  font-family: 'Nunito', sans-serif;
+  object-fit: cover;
+}
+body {
+  margin: 0px;
+}
